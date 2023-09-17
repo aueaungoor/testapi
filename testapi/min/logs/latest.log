@@ -1,0 +1,1918 @@
+[20:00:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:00:04] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[20:00:04] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:00:05] [Worker-Main-11/INFO]: Loaded 7 recipes
+[20:00:07] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:00:07] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[20:00:07] [Server thread/INFO]: Loading properties
+[20:00:07] [Server thread/INFO]: This server is running CraftBukkit version 3096a-Spigot-9fb885e-af1a232 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[20:00:07] [Server thread/INFO]: Debug logging is disabled
+[20:00:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:00:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:00:07] [Server thread/INFO]: Default game type: SURVIVAL
+[20:00:07] [Server thread/INFO]: Generating keypair
+[20:00:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:00:08] [Server thread/INFO]: Using default channel type
+[20:00:08] [Server thread/INFO]: Preparing level "world"
+[20:00:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[20:00:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:00:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:00:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:00:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:00:08] [Server thread/INFO]: View Distance: 10
+[20:00:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:00:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:00:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:00:08] [Server thread/INFO]: Mob Spawn Range: 6
+[20:00:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:00:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:00:08] [Server thread/INFO]: Max TNT Explosions: 100
+[20:00:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:00:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:00:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:00:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:00:13] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[20:00:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:00:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:00:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:00:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:00:13] [Server thread/INFO]: View Distance: 10
+[20:00:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:00:13] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:00:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:00:13] [Server thread/INFO]: Mob Spawn Range: 6
+[20:00:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:00:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:00:13] [Server thread/INFO]: Max TNT Explosions: 100
+[20:00:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:00:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:00:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:00:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:00:13] [Server thread/WARN]: Unable to find spawn biome
+[20:00:14] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[20:00:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:00:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:00:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:00:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:00:14] [Server thread/INFO]: View Distance: 10
+[20:00:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:00:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:00:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:00:14] [Server thread/INFO]: Mob Spawn Range: 6
+[20:00:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:00:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:00:14] [Server thread/INFO]: Max TNT Explosions: 100
+[20:00:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:00:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20:00:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:00:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:00:14] [Server thread/WARN]: Unable to find spawn biome
+[20:00:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:00:15] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:00:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:00:15] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:00:16] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:00:16] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:00:17] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:00:17] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:00:18] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:00:18] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:00:19] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:00:19] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:00:20] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:00:20] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:00:21] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:00:21] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:00:22] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:00:22] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:00:23] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:00:23] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:00:24] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:00:24] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:00:25] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:00:25] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:00:26] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:00:26] [Worker-Main-10/INFO]: Preparing spawn area: 2%
+[20:00:27] [Worker-Main-9/INFO]: Preparing spawn area: 2%
+[20:00:27] [Worker-Main-9/INFO]: Preparing spawn area: 2%
+[20:00:28] [Worker-Main-9/INFO]: Preparing spawn area: 2%
+[20:00:28] [Worker-Main-8/INFO]: Preparing spawn area: 2%
+[20:00:29] [Worker-Main-9/INFO]: Preparing spawn area: 2%
+[20:00:29] [Worker-Main-8/INFO]: Preparing spawn area: 2%
+[20:00:30] [Worker-Main-10/INFO]: Preparing spawn area: 2%
+[20:00:30] [Worker-Main-10/INFO]: Preparing spawn area: 2%
+[20:00:31] [Worker-Main-13/INFO]: Preparing spawn area: 2%
+[20:00:31] [Worker-Main-8/INFO]: Preparing spawn area: 2%
+[20:00:32] [Worker-Main-9/INFO]: Preparing spawn area: 2%
+[20:00:32] [Worker-Main-12/INFO]: Preparing spawn area: 2%
+[20:00:33] [Worker-Main-8/INFO]: Preparing spawn area: 2%
+[20:00:33] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:34] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:34] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:35] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[20:00:35] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:36] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:36] [Worker-Main-9/INFO]: Preparing spawn area: 3%
+[20:00:37] [Worker-Main-9/INFO]: Preparing spawn area: 3%
+[20:00:37] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:38] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:38] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[20:00:39] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:39] [Worker-Main-13/INFO]: Preparing spawn area: 3%
+[20:00:40] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:40] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[20:00:41] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[20:00:41] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[20:00:42] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[20:00:42] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[20:00:43] [Worker-Main-9/INFO]: Preparing spawn area: 3%
+[20:00:43] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[20:00:44] [Worker-Main-13/INFO]: Preparing spawn area: 3%
+[20:00:44] [Worker-Main-14/INFO]: Preparing spawn area: 3%
+[20:00:45] [Worker-Main-13/INFO]: Preparing spawn area: 3%
+[20:00:45] [Worker-Main-9/INFO]: Preparing spawn area: 3%
+[20:00:46] [Worker-Main-15/INFO]: Preparing spawn area: 3%
+[20:00:46] [Worker-Main-15/INFO]: Preparing spawn area: 4%
+[20:00:47] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[20:00:47] [Worker-Main-15/INFO]: Preparing spawn area: 4%
+[20:00:48] [Worker-Main-8/INFO]: Preparing spawn area: 4%
+[20:00:48] [Worker-Main-14/INFO]: Preparing spawn area: 5%
+[20:00:49] [Worker-Main-14/INFO]: Preparing spawn area: 5%
+[20:00:49] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:00:50] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:00:50] [Worker-Main-15/INFO]: Preparing spawn area: 5%
+[20:00:51] [Worker-Main-15/INFO]: Preparing spawn area: 5%
+[20:00:51] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:00:52] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:00:52] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:00:53] [Worker-Main-15/INFO]: Preparing spawn area: 5%
+[20:00:53] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:00:54] [Worker-Main-15/INFO]: Preparing spawn area: 5%
+[20:00:54] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:00:55] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:00:55] [Worker-Main-14/INFO]: Preparing spawn area: 5%
+[20:00:56] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:00:56] [Worker-Main-15/INFO]: Preparing spawn area: 5%
+[20:00:57] [Worker-Main-15/INFO]: Preparing spawn area: 5%
+[20:00:57] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[20:00:58] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[20:00:58] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:00:59] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[20:00:59] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[20:01:00] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:01:00] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:01:01] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:01:01] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:01:02] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[20:01:02] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:01:03] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[20:01:03] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:01:04] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:01:04] [Worker-Main-14/INFO]: Preparing spawn area: 5%
+[20:01:05] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:01:05] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:01:06] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[20:01:06] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[20:01:07] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[20:01:07] [Worker-Main-15/INFO]: Preparing spawn area: 5%
+[20:01:08] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[20:01:08] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[20:01:09] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[20:01:09] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[20:01:10] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[20:01:10] [Worker-Main-15/INFO]: Preparing spawn area: 5%
+[20:01:11] [Worker-Main-13/INFO]: Preparing spawn area: 5%
+[20:01:11] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:01:12] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:01:12] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[20:01:13] [Worker-Main-15/INFO]: Preparing spawn area: 5%
+[20:01:13] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[20:01:14] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[20:01:14] [Worker-Main-14/INFO]: Preparing spawn area: 5%
+[20:01:15] [Worker-Main-14/INFO]: Preparing spawn area: 7%
+[20:01:15] [Worker-Main-10/INFO]: Preparing spawn area: 9%
+[20:01:16] [Worker-Main-10/INFO]: Preparing spawn area: 9%
+[20:01:16] [Worker-Main-14/INFO]: Preparing spawn area: 10%
+[20:01:17] [Worker-Main-14/INFO]: Preparing spawn area: 10%
+[20:01:17] [Worker-Main-13/INFO]: Preparing spawn area: 10%
+[20:01:18] [Worker-Main-9/INFO]: Preparing spawn area: 10%
+[20:01:18] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[20:01:19] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[20:01:19] [Worker-Main-14/INFO]: Preparing spawn area: 10%
+[20:01:20] [Worker-Main-12/INFO]: Preparing spawn area: 10%
+[20:01:20] [Worker-Main-12/INFO]: Preparing spawn area: 10%
+[20:01:21] [Worker-Main-14/INFO]: Preparing spawn area: 10%
+[20:01:21] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[20:01:22] [Worker-Main-15/INFO]: Preparing spawn area: 10%
+[20:01:22] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[20:01:23] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[20:01:23] [Worker-Main-14/INFO]: Preparing spawn area: 10%
+[20:01:24] [Worker-Main-10/INFO]: Preparing spawn area: 10%
+[20:01:24] [Worker-Main-10/INFO]: Preparing spawn area: 10%
+[20:01:25] [Worker-Main-8/INFO]: Preparing spawn area: 10%
+[20:01:25] [Worker-Main-10/INFO]: Preparing spawn area: 10%
+[20:01:26] [Worker-Main-13/INFO]: Preparing spawn area: 10%
+[20:01:26] [Worker-Main-14/INFO]: Preparing spawn area: 10%
+[20:01:27] [Worker-Main-15/INFO]: Preparing spawn area: 10%
+[20:01:27] [Worker-Main-14/INFO]: Preparing spawn area: 10%
+[20:01:28] [Worker-Main-14/INFO]: Preparing spawn area: 12%
+[20:01:28] [Worker-Main-15/INFO]: Preparing spawn area: 12%
+[20:01:29] [Worker-Main-8/INFO]: Preparing spawn area: 12%
+[20:01:29] [Worker-Main-8/INFO]: Preparing spawn area: 12%
+[20:01:30] [Worker-Main-12/INFO]: Preparing spawn area: 12%
+[20:01:30] [Worker-Main-10/INFO]: Preparing spawn area: 12%
+[20:01:31] [Worker-Main-12/INFO]: Preparing spawn area: 12%
+[20:01:31] [Worker-Main-10/INFO]: Preparing spawn area: 12%
+[20:01:32] [Worker-Main-8/INFO]: Preparing spawn area: 12%
+[20:01:32] [Worker-Main-12/INFO]: Preparing spawn area: 12%
+[20:01:33] [Worker-Main-10/INFO]: Preparing spawn area: 12%
+[20:01:33] [Worker-Main-8/INFO]: Preparing spawn area: 12%
+[20:01:34] [Worker-Main-12/INFO]: Preparing spawn area: 12%
+[20:01:34] [Worker-Main-12/INFO]: Preparing spawn area: 12%
+[20:01:35] [Worker-Main-12/INFO]: Preparing spawn area: 12%
+[20:01:35] [Worker-Main-10/INFO]: Preparing spawn area: 12%
+[20:01:36] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[20:01:36] [Worker-Main-10/INFO]: Preparing spawn area: 13%
+[20:01:37] [Worker-Main-9/INFO]: Preparing spawn area: 13%
+[20:01:37] [Worker-Main-14/INFO]: Preparing spawn area: 13%
+[20:01:38] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[20:01:38] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[20:01:39] [Worker-Main-14/INFO]: Preparing spawn area: 13%
+[20:01:39] [Worker-Main-15/INFO]: Preparing spawn area: 13%
+[20:01:40] [Worker-Main-14/INFO]: Preparing spawn area: 13%
+[20:01:40] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[20:01:41] [Worker-Main-12/INFO]: Preparing spawn area: 13%
+[20:01:41] [Worker-Main-13/INFO]: Preparing spawn area: 13%
+[20:01:42] [Worker-Main-9/INFO]: Preparing spawn area: 13%
+[20:01:42] [Worker-Main-9/INFO]: Preparing spawn area: 13%
+[20:01:43] [Worker-Main-13/INFO]: Preparing spawn area: 13%
+[20:01:43] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[20:01:44] [Worker-Main-9/INFO]: Preparing spawn area: 13%
+[20:01:44] [Worker-Main-14/INFO]: Preparing spawn area: 13%
+[20:01:45] [Worker-Main-14/INFO]: Preparing spawn area: 13%
+[20:01:45] [Worker-Main-15/INFO]: Preparing spawn area: 13%
+[20:01:46] [Worker-Main-15/INFO]: Preparing spawn area: 13%
+[20:01:46] [Worker-Main-15/INFO]: Preparing spawn area: 14%
+[20:01:47] [Worker-Main-9/INFO]: Preparing spawn area: 14%
+[20:01:47] [Worker-Main-13/INFO]: Preparing spawn area: 14%
+[20:01:48] [Worker-Main-14/INFO]: Preparing spawn area: 14%
+[20:01:48] [Worker-Main-15/INFO]: Preparing spawn area: 14%
+[20:01:49] [Worker-Main-8/INFO]: Preparing spawn area: 14%
+[20:01:49] [Worker-Main-8/INFO]: Preparing spawn area: 14%
+[20:01:50] [Worker-Main-14/INFO]: Preparing spawn area: 14%
+[20:01:50] [Worker-Main-13/INFO]: Preparing spawn area: 14%
+[20:01:51] [Worker-Main-8/INFO]: Preparing spawn area: 14%
+[20:01:51] [Worker-Main-8/INFO]: Preparing spawn area: 14%
+[20:01:52] [Worker-Main-8/INFO]: Preparing spawn area: 15%
+[20:01:52] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:01:53] [Worker-Main-13/INFO]: Preparing spawn area: 15%
+[20:01:53] [Worker-Main-15/INFO]: Preparing spawn area: 15%
+[20:01:54] [Worker-Main-13/INFO]: Preparing spawn area: 15%
+[20:01:54] [Worker-Main-9/INFO]: Preparing spawn area: 15%
+[20:01:55] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:01:55] [Worker-Main-10/INFO]: Preparing spawn area: 15%
+[20:01:56] [Worker-Main-9/INFO]: Preparing spawn area: 15%
+[20:01:56] [Worker-Main-9/INFO]: Preparing spawn area: 15%
+[20:01:57] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:01:57] [Worker-Main-9/INFO]: Preparing spawn area: 15%
+[20:01:58] [Worker-Main-15/INFO]: Preparing spawn area: 15%
+[20:01:58] [Worker-Main-9/INFO]: Preparing spawn area: 15%
+[20:01:59] [Worker-Main-13/INFO]: Preparing spawn area: 15%
+[20:01:59] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:02:00] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:02:00] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[20:02:01] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[20:02:01] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[20:02:02] [Worker-Main-13/INFO]: Preparing spawn area: 15%
+[20:02:02] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:02:03] [Worker-Main-10/INFO]: Preparing spawn area: 15%
+[20:02:03] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:02:04] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:02:04] [Worker-Main-13/INFO]: Preparing spawn area: 15%
+[20:02:05] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:02:05] [Worker-Main-15/INFO]: Preparing spawn area: 15%
+[20:02:06] [Worker-Main-10/INFO]: Preparing spawn area: 15%
+[20:02:06] [Worker-Main-9/INFO]: Preparing spawn area: 15%
+[20:02:07] [Worker-Main-14/INFO]: Preparing spawn area: 15%
+[20:02:07] [Worker-Main-10/INFO]: Preparing spawn area: 15%
+[20:02:08] [Worker-Main-10/INFO]: Preparing spawn area: 16%
+[20:02:08] [Worker-Main-9/INFO]: Preparing spawn area: 16%
+[20:02:09] [Worker-Main-9/INFO]: Preparing spawn area: 16%
+[20:02:09] [Worker-Main-9/INFO]: Preparing spawn area: 16%
+[20:02:10] [Worker-Main-10/INFO]: Preparing spawn area: 16%
+[20:02:10] [Worker-Main-14/INFO]: Preparing spawn area: 16%
+[20:02:11] [Worker-Main-12/INFO]: Preparing spawn area: 16%
+[20:02:11] [Worker-Main-8/INFO]: Preparing spawn area: 16%
+[20:02:12] [Worker-Main-8/INFO]: Preparing spawn area: 16%
+[20:02:12] [Worker-Main-9/INFO]: Preparing spawn area: 16%
+[20:02:13] [Worker-Main-9/INFO]: Preparing spawn area: 16%
+[20:02:13] [Worker-Main-14/INFO]: Preparing spawn area: 16%
+[20:02:14] [Worker-Main-14/INFO]: Preparing spawn area: 16%
+[20:02:14] [Worker-Main-14/INFO]: Preparing spawn area: 16%
+[20:02:15] [Worker-Main-8/INFO]: Preparing spawn area: 16%
+[20:02:15] [Worker-Main-8/INFO]: Preparing spawn area: 16%
+[20:02:16] [Worker-Main-8/INFO]: Preparing spawn area: 16%
+[20:02:16] [Worker-Main-10/INFO]: Preparing spawn area: 17%
+[20:02:17] [Worker-Main-10/INFO]: Preparing spawn area: 17%
+[20:02:17] [Worker-Main-14/INFO]: Preparing spawn area: 17%
+[20:02:18] [Worker-Main-10/INFO]: Preparing spawn area: 17%
+[20:02:18] [Worker-Main-10/INFO]: Preparing spawn area: 17%
+[20:02:19] [Worker-Main-14/INFO]: Preparing spawn area: 17%
+[20:02:19] [Worker-Main-9/INFO]: Preparing spawn area: 17%
+[20:02:20] [Worker-Main-9/INFO]: Preparing spawn area: 17%
+[20:02:20] [Worker-Main-15/INFO]: Preparing spawn area: 17%
+[20:02:21] [Worker-Main-15/INFO]: Preparing spawn area: 17%
+[20:02:21] [Worker-Main-9/INFO]: Preparing spawn area: 17%
+[20:02:22] [Worker-Main-12/INFO]: Preparing spawn area: 18%
+[20:02:22] [Worker-Main-12/INFO]: Preparing spawn area: 18%
+[20:02:23] [Worker-Main-9/INFO]: Preparing spawn area: 18%
+[20:02:23] [Worker-Main-9/INFO]: Preparing spawn area: 18%
+[20:02:24] [Worker-Main-9/INFO]: Preparing spawn area: 18%
+[20:02:24] [Worker-Main-9/INFO]: Preparing spawn area: 18%
+[20:02:25] [Worker-Main-13/INFO]: Preparing spawn area: 18%
+[20:02:25] [Worker-Main-15/INFO]: Preparing spawn area: 18%
+[20:02:26] [Worker-Main-8/INFO]: Preparing spawn area: 18%
+[20:02:26] [Worker-Main-14/INFO]: Preparing spawn area: 18%
+[20:02:27] [Worker-Main-9/INFO]: Preparing spawn area: 18%
+[20:02:27] [Worker-Main-8/INFO]: Preparing spawn area: 18%
+[20:02:28] [Worker-Main-9/INFO]: Preparing spawn area: 18%
+[20:02:28] [Worker-Main-9/INFO]: Preparing spawn area: 18%
+[20:02:29] [Worker-Main-9/INFO]: Preparing spawn area: 18%
+[20:02:29] [Worker-Main-15/INFO]: Preparing spawn area: 18%
+[20:02:30] [Worker-Main-15/INFO]: Preparing spawn area: 18%
+[20:02:30] [Worker-Main-15/INFO]: Preparing spawn area: 18%
+[20:02:31] [Worker-Main-14/INFO]: Preparing spawn area: 19%
+[20:02:31] [Worker-Main-8/INFO]: Preparing spawn area: 19%
+[20:02:32] [Worker-Main-8/INFO]: Preparing spawn area: 19%
+[20:02:32] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:33] [Worker-Main-14/INFO]: Preparing spawn area: 19%
+[20:02:33] [Worker-Main-8/INFO]: Preparing spawn area: 19%
+[20:02:34] [Worker-Main-8/INFO]: Preparing spawn area: 19%
+[20:02:34] [Worker-Main-8/INFO]: Preparing spawn area: 19%
+[20:02:35] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:35] [Worker-Main-9/INFO]: Preparing spawn area: 19%
+[20:02:36] [Worker-Main-14/INFO]: Preparing spawn area: 19%
+[20:02:36] [Worker-Main-14/INFO]: Preparing spawn area: 19%
+[20:02:37] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[20:02:37] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[20:02:38] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[20:02:38] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:39] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[20:02:39] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[20:02:40] [Worker-Main-13/INFO]: Preparing spawn area: 19%
+[20:02:40] [Worker-Main-9/INFO]: Preparing spawn area: 19%
+[20:02:41] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:41] [Worker-Main-13/INFO]: Preparing spawn area: 19%
+[20:02:42] [Worker-Main-9/INFO]: Preparing spawn area: 19%
+[20:02:42] [Worker-Main-13/INFO]: Preparing spawn area: 19%
+[20:02:43] [Worker-Main-9/INFO]: Preparing spawn area: 19%
+[20:02:43] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:44] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:44] [Worker-Main-9/INFO]: Preparing spawn area: 19%
+[20:02:45] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[20:02:45] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:46] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:46] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:47] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:47] [Worker-Main-14/INFO]: Preparing spawn area: 19%
+[20:02:48] [Worker-Main-15/INFO]: Preparing spawn area: 19%
+[20:02:48] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[20:02:49] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[20:02:49] [Worker-Main-14/INFO]: Preparing spawn area: 19%
+[20:02:50] [Worker-Main-10/INFO]: Preparing spawn area: 19%
+[20:02:50] [Worker-Main-9/INFO]: Preparing spawn area: 19%
+[20:02:51] [Worker-Main-8/INFO]: Preparing spawn area: 19%
+[20:02:51] [Worker-Main-9/INFO]: Preparing spawn area: 19%
+[20:02:52] [Worker-Main-9/INFO]: Preparing spawn area: 21%
+[20:02:52] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[20:02:53] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[20:02:53] [Worker-Main-15/INFO]: Preparing spawn area: 21%
+[20:02:54] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[20:02:54] [Worker-Main-9/INFO]: Preparing spawn area: 21%
+[20:02:55] [Worker-Main-9/INFO]: Preparing spawn area: 21%
+[20:02:55] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[20:02:56] [Worker-Main-10/INFO]: Preparing spawn area: 21%
+[20:02:56] [Worker-Main-12/INFO]: Preparing spawn area: 21%
+[20:02:57] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[20:02:57] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[20:02:58] [Worker-Main-10/INFO]: Preparing spawn area: 21%
+[20:02:58] [Worker-Main-10/INFO]: Preparing spawn area: 21%
+[20:02:59] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[20:02:59] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[20:03:00] [Worker-Main-15/INFO]: Preparing spawn area: 21%
+[20:03:00] [Worker-Main-8/INFO]: Preparing spawn area: 21%
+[20:03:01] [Worker-Main-15/INFO]: Preparing spawn area: 21%
+[20:03:01] [Worker-Main-8/INFO]: Preparing spawn area: 22%
+[20:03:02] [Worker-Main-8/INFO]: Preparing spawn area: 22%
+[20:03:02] [Worker-Main-10/INFO]: Preparing spawn area: 22%
+[20:03:03] [Worker-Main-12/INFO]: Preparing spawn area: 22%
+[20:03:03] [Worker-Main-10/INFO]: Preparing spawn area: 22%
+[20:03:04] [Worker-Main-10/INFO]: Preparing spawn area: 22%
+[20:03:04] [Worker-Main-10/INFO]: Preparing spawn area: 22%
+[20:03:05] [Worker-Main-13/INFO]: Preparing spawn area: 22%
+[20:03:05] [Worker-Main-13/INFO]: Preparing spawn area: 22%
+[20:03:06] [Worker-Main-15/INFO]: Preparing spawn area: 22%
+[20:03:06] [Worker-Main-15/INFO]: Preparing spawn area: 22%
+[20:03:07] [Worker-Main-15/INFO]: Preparing spawn area: 22%
+[20:03:07] [Worker-Main-8/INFO]: Preparing spawn area: 22%
+[20:03:08] [Worker-Main-12/INFO]: Preparing spawn area: 22%
+[20:03:08] [Worker-Main-12/INFO]: Preparing spawn area: 22%
+[20:03:09] [Worker-Main-12/INFO]: Preparing spawn area: 22%
+[20:03:09] [Worker-Main-12/INFO]: Preparing spawn area: 23%
+[20:03:10] [Worker-Main-14/INFO]: Preparing spawn area: 23%
+[20:03:10] [Worker-Main-8/INFO]: Preparing spawn area: 23%
+[20:03:11] [Worker-Main-8/INFO]: Preparing spawn area: 23%
+[20:03:11] [Worker-Main-9/INFO]: Preparing spawn area: 23%
+[20:03:12] [Worker-Main-9/INFO]: Preparing spawn area: 23%
+[20:03:12] [Worker-Main-9/INFO]: Preparing spawn area: 23%
+[20:03:13] [Worker-Main-15/INFO]: Preparing spawn area: 23%
+[20:03:13] [Worker-Main-8/INFO]: Preparing spawn area: 23%
+[20:03:14] [Worker-Main-12/INFO]: Preparing spawn area: 23%
+[20:03:14] [Worker-Main-8/INFO]: Preparing spawn area: 23%
+[20:03:15] [Worker-Main-8/INFO]: Preparing spawn area: 23%
+[20:03:15] [Worker-Main-14/INFO]: Preparing spawn area: 23%
+[20:03:16] [Worker-Main-8/INFO]: Preparing spawn area: 23%
+[20:03:16] [Worker-Main-14/INFO]: Preparing spawn area: 23%
+[20:03:17] [Worker-Main-15/INFO]: Preparing spawn area: 23%
+[20:03:17] [Worker-Main-15/INFO]: Preparing spawn area: 23%
+[20:03:18] [Worker-Main-9/INFO]: Preparing spawn area: 23%
+[20:03:18] [Worker-Main-12/INFO]: Preparing spawn area: 23%
+[20:03:19] [Worker-Main-12/INFO]: Preparing spawn area: 23%
+[20:03:19] [Worker-Main-13/INFO]: Preparing spawn area: 23%
+[20:03:20] [Worker-Main-13/INFO]: Preparing spawn area: 23%
+[20:03:20] [Worker-Main-12/INFO]: Preparing spawn area: 23%
+[20:03:21] [Worker-Main-13/INFO]: Preparing spawn area: 24%
+[20:03:21] [Worker-Main-13/INFO]: Preparing spawn area: 24%
+[20:03:22] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[20:03:22] [Worker-Main-12/INFO]: Preparing spawn area: 24%
+[20:03:23] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[20:03:23] [Worker-Main-14/INFO]: Preparing spawn area: 24%
+[20:03:24] [Worker-Main-15/INFO]: Preparing spawn area: 24%
+[20:03:24] [Worker-Main-13/INFO]: Preparing spawn area: 24%
+[20:03:25] [Worker-Main-15/INFO]: Preparing spawn area: 24%
+[20:03:25] [Worker-Main-15/INFO]: Preparing spawn area: 24%
+[20:03:26] [Worker-Main-15/INFO]: Preparing spawn area: 24%
+[20:03:26] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[20:03:27] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[20:03:27] [Worker-Main-12/INFO]: Preparing spawn area: 24%
+[20:03:28] [Worker-Main-15/INFO]: Preparing spawn area: 24%
+[20:03:28] [Worker-Main-15/INFO]: Preparing spawn area: 24%
+[20:03:29] [Worker-Main-15/INFO]: Preparing spawn area: 24%
+[20:03:29] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[20:03:30] [Worker-Main-9/INFO]: Preparing spawn area: 24%
+[20:03:30] [Worker-Main-8/INFO]: Preparing spawn area: 24%
+[20:03:31] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[20:03:31] [Worker-Main-9/INFO]: Preparing spawn area: 24%
+[20:03:32] [Worker-Main-12/INFO]: Preparing spawn area: 24%
+[20:03:32] [Worker-Main-15/INFO]: Preparing spawn area: 25%
+[20:03:33] [Worker-Main-15/INFO]: Preparing spawn area: 25%
+[20:03:33] [Worker-Main-14/INFO]: Preparing spawn area: 25%
+[20:03:34] [Worker-Main-9/INFO]: Preparing spawn area: 25%
+[20:03:34] [Worker-Main-9/INFO]: Preparing spawn area: 25%
+[20:03:35] [Worker-Main-8/INFO]: Preparing spawn area: 25%
+[20:03:35] [Worker-Main-8/INFO]: Preparing spawn area: 25%
+[20:03:36] [Worker-Main-8/INFO]: Preparing spawn area: 25%
+[20:03:36] [Worker-Main-9/INFO]: Preparing spawn area: 25%
+[20:03:37] [Worker-Main-8/INFO]: Preparing spawn area: 25%
+[20:03:37] [Worker-Main-9/INFO]: Preparing spawn area: 25%
+[20:03:38] [Worker-Main-13/INFO]: Preparing spawn area: 25%
+[20:03:38] [Worker-Main-10/INFO]: Preparing spawn area: 25%
+[20:03:39] [Worker-Main-10/INFO]: Preparing spawn area: 25%
+[20:03:39] [Worker-Main-12/INFO]: Preparing spawn area: 25%
+[20:03:40] [Worker-Main-13/INFO]: Preparing spawn area: 25%
+[20:03:40] [Worker-Main-8/INFO]: Preparing spawn area: 25%
+[20:03:43] [Worker-Main-12/INFO]: Preparing spawn area: 25%
+[20:03:43] [Worker-Main-12/INFO]: Preparing spawn area: 25%
+[20:03:43] [Worker-Main-8/INFO]: Preparing spawn area: 26%
+[20:03:45] [Worker-Main-14/INFO]: Preparing spawn area: 26%
+[20:03:45] [Worker-Main-12/INFO]: Preparing spawn area: 26%
+[20:03:45] [Worker-Main-14/INFO]: Preparing spawn area: 26%
+[20:03:47] [Worker-Main-15/INFO]: Preparing spawn area: 26%
+[20:03:47] [Worker-Main-13/INFO]: Preparing spawn area: 26%
+[20:03:47] [Worker-Main-13/INFO]: Preparing spawn area: 26%
+[20:03:49] [Worker-Main-9/INFO]: Preparing spawn area: 26%
+[20:03:49] [Worker-Main-14/INFO]: Preparing spawn area: 26%
+[20:03:49] [Worker-Main-12/INFO]: Preparing spawn area: 26%
+[20:03:50] [Worker-Main-8/INFO]: Preparing spawn area: 26%
+[20:03:50] [Worker-Main-8/INFO]: Preparing spawn area: 26%
+[20:03:50] [Worker-Main-12/INFO]: Preparing spawn area: 26%
+[20:03:53] [Worker-Main-9/INFO]: Preparing spawn area: 26%
+[20:03:53] [Worker-Main-12/INFO]: Preparing spawn area: 26%
+[20:03:53] [Worker-Main-9/INFO]: Preparing spawn area: 27%
+[20:03:55] [Worker-Main-12/INFO]: Preparing spawn area: 27%
+[20:03:55] [Worker-Main-8/INFO]: Preparing spawn area: 27%
+[20:03:55] [Worker-Main-12/INFO]: Preparing spawn area: 27%
+[20:03:57] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[20:03:57] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[20:03:57] [Worker-Main-9/INFO]: Preparing spawn area: 27%
+[20:04:00] [Worker-Main-8/INFO]: Preparing spawn area: 27%
+[20:04:00] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[20:04:00] [Worker-Main-8/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-8/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-8/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-8/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[20:04:08] [Worker-Main-8/INFO]: Preparing spawn area: 28%
+[20:04:08] [Worker-Main-14/INFO]: Preparing spawn area: 28%
+[20:04:08] [Worker-Main-8/INFO]: Preparing spawn area: 28%
+[20:04:09] [Worker-Main-13/INFO]: Preparing spawn area: 28%
+[20:04:09] [Worker-Main-12/INFO]: Preparing spawn area: 28%
+[20:04:09] [Worker-Main-13/INFO]: Preparing spawn area: 28%
+[20:04:11] [Worker-Main-12/INFO]: Preparing spawn area: 28%
+[20:04:11] [Worker-Main-13/INFO]: Preparing spawn area: 28%
+[20:04:11] [Worker-Main-12/INFO]: Preparing spawn area: 28%
+[20:04:12] [Worker-Main-8/INFO]: Preparing spawn area: 28%
+[20:04:12] [Worker-Main-13/INFO]: Preparing spawn area: 28%
+[20:04:12] [Worker-Main-8/INFO]: Preparing spawn area: 28%
+[20:04:13] [Worker-Main-14/INFO]: Preparing spawn area: 28%
+[20:04:13] [Worker-Main-14/INFO]: Preparing spawn area: 28%
+[20:04:13] [Worker-Main-13/INFO]: Preparing spawn area: 29%
+[20:04:15] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:15] [Worker-Main-15/INFO]: Preparing spawn area: 29%
+[20:04:15] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:16] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:16] [Worker-Main-12/INFO]: Preparing spawn area: 29%
+[20:04:16] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:18] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:18] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:18] [Worker-Main-15/INFO]: Preparing spawn area: 29%
+[20:04:22] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:22] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:22] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:22] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:22] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:22] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:22] [Worker-Main-9/INFO]: Preparing spawn area: 29%
+[20:04:22] [Worker-Main-8/INFO]: Preparing spawn area: 30%
+[20:04:22] [Worker-Main-9/INFO]: Preparing spawn area: 30%
+[20:04:25] [Worker-Main-8/INFO]: Preparing spawn area: 30%
+[20:04:25] [Worker-Main-12/INFO]: Preparing spawn area: 30%
+[20:04:25] [Worker-Main-8/INFO]: Preparing spawn area: 30%
+[20:04:29] [Worker-Main-14/INFO]: Preparing spawn area: 30%
+[20:04:29] [Worker-Main-14/INFO]: Preparing spawn area: 30%
+[20:04:29] [Worker-Main-14/INFO]: Preparing spawn area: 30%
+[20:04:29] [Worker-Main-10/INFO]: Preparing spawn area: 30%
+[20:04:29] [Worker-Main-13/INFO]: Preparing spawn area: 30%
+[20:04:29] [Worker-Main-13/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-8/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-15/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-8/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-15/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-8/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-15/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-15/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-8/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-15/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-8/INFO]: Preparing spawn area: 30%
+[20:04:42] [Worker-Main-15/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-8/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-9/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-8/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-9/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-9/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-12/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-9/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-12/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-9/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-15/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-9/INFO]: Preparing spawn area: 31%
+[20:04:42] [Worker-Main-12/INFO]: Preparing spawn area: 32%
+[20:04:42] [Worker-Main-9/INFO]: Preparing spawn area: 32%
+[20:04:44] [Worker-Main-15/INFO]: Preparing spawn area: 32%
+[20:04:44] [Worker-Main-15/INFO]: Preparing spawn area: 32%
+[20:04:44] [Worker-Main-9/INFO]: Preparing spawn area: 32%
+[20:04:46] [Worker-Main-12/INFO]: Preparing spawn area: 32%
+[20:04:46] [Worker-Main-9/INFO]: Preparing spawn area: 32%
+[20:04:46] [Worker-Main-9/INFO]: Preparing spawn area: 32%
+[20:04:49] [Worker-Main-14/INFO]: Preparing spawn area: 32%
+[20:04:49] [Worker-Main-8/INFO]: Preparing spawn area: 32%
+[20:04:49] [Worker-Main-12/INFO]: Preparing spawn area: 32%
+[20:04:52] [Worker-Main-14/INFO]: Preparing spawn area: 32%
+[20:04:52] [Worker-Main-14/INFO]: Preparing spawn area: 32%
+[20:04:52] [Worker-Main-13/INFO]: Preparing spawn area: 33%
+[20:04:54] [Worker-Main-12/INFO]: Preparing spawn area: 33%
+[20:04:54] [Worker-Main-14/INFO]: Preparing spawn area: 33%
+[20:04:54] [Worker-Main-12/INFO]: Preparing spawn area: 33%
+[20:04:56] [Worker-Main-12/INFO]: Preparing spawn area: 33%
+[20:04:56] [Worker-Main-13/INFO]: Preparing spawn area: 33%
+[20:04:56] [Worker-Main-12/INFO]: Preparing spawn area: 33%
+[20:04:59] [Worker-Main-12/INFO]: Preparing spawn area: 33%
+[20:04:59] [Worker-Main-12/INFO]: Preparing spawn area: 33%
+[20:04:59] [Worker-Main-8/INFO]: Preparing spawn area: 33%
+[20:05:01] [Worker-Main-9/INFO]: Preparing spawn area: 33%
+[20:05:01] [Worker-Main-14/INFO]: Preparing spawn area: 33%
+[20:05:01] [Worker-Main-14/INFO]: Preparing spawn area: 33%
+[20:05:02] [Worker-Main-13/INFO]: Preparing spawn area: 33%
+[20:05:02] [Worker-Main-10/INFO]: Preparing spawn area: 33%
+[20:05:02] [Worker-Main-10/INFO]: Preparing spawn area: 34%
+[20:05:04] [Worker-Main-10/INFO]: Preparing spawn area: 34%
+[20:05:04] [Worker-Main-10/INFO]: Preparing spawn area: 34%
+[20:05:04] [Worker-Main-12/INFO]: Preparing spawn area: 34%
+[20:05:06] [Worker-Main-13/INFO]: Preparing spawn area: 34%
+[20:05:06] [Worker-Main-12/INFO]: Preparing spawn area: 34%
+[20:05:06] [Worker-Main-13/INFO]: Preparing spawn area: 34%
+[20:05:08] [Worker-Main-12/INFO]: Preparing spawn area: 34%
+[20:05:08] [Worker-Main-12/INFO]: Preparing spawn area: 34%
+[20:05:08] [Worker-Main-9/INFO]: Preparing spawn area: 34%
+[20:05:10] [Worker-Main-12/INFO]: Preparing spawn area: 34%
+[20:05:10] [Worker-Main-12/INFO]: Preparing spawn area: 34%
+[20:05:10] [Worker-Main-12/INFO]: Preparing spawn area: 34%
+[20:05:12] [Worker-Main-14/INFO]: Preparing spawn area: 34%
+[20:05:12] [Worker-Main-10/INFO]: Preparing spawn area: 34%
+[20:05:12] [Worker-Main-10/INFO]: Preparing spawn area: 34%
+[20:05:14] [Worker-Main-8/INFO]: Preparing spawn area: 34%
+[20:05:14] [Worker-Main-14/INFO]: Preparing spawn area: 34%
+[20:05:14] [Worker-Main-15/INFO]: Preparing spawn area: 35%
+[20:05:17] [Worker-Main-13/INFO]: Preparing spawn area: 35%
+[20:05:17] [Worker-Main-13/INFO]: Preparing spawn area: 35%
+[20:05:17] [Worker-Main-14/INFO]: Preparing spawn area: 35%
+[20:05:19] [Worker-Main-13/INFO]: Preparing spawn area: 35%
+[20:05:19] [Worker-Main-10/INFO]: Preparing spawn area: 35%
+[20:05:19] [Worker-Main-13/INFO]: Preparing spawn area: 35%
+[20:05:21] [Worker-Main-12/INFO]: Preparing spawn area: 35%
+[20:05:21] [Worker-Main-13/INFO]: Preparing spawn area: 35%
+[20:05:21] [Worker-Main-15/INFO]: Preparing spawn area: 35%
+[20:05:22] [Worker-Main-12/INFO]: Preparing spawn area: 35%
+[20:05:22] [Worker-Main-14/INFO]: Preparing spawn area: 35%
+[20:05:22] [Worker-Main-12/INFO]: Preparing spawn area: 35%
+[20:05:24] [Worker-Main-14/INFO]: Preparing spawn area: 35%
+[20:05:24] [Worker-Main-9/INFO]: Preparing spawn area: 35%
+[20:05:24] [Worker-Main-14/INFO]: Preparing spawn area: 36%
+[20:05:26] [Worker-Main-14/INFO]: Preparing spawn area: 36%
+[20:05:26] [Worker-Main-10/INFO]: Preparing spawn area: 36%
+[20:05:26] [Worker-Main-14/INFO]: Preparing spawn area: 36%
+[20:05:29] [Worker-Main-14/INFO]: Preparing spawn area: 36%
+[20:05:29] [Worker-Main-8/INFO]: Preparing spawn area: 36%
+[20:05:29] [Worker-Main-8/INFO]: Preparing spawn area: 36%
+[20:05:31] [Worker-Main-8/INFO]: Preparing spawn area: 36%
+[20:05:31] [Worker-Main-10/INFO]: Preparing spawn area: 36%
+[20:05:31] [Worker-Main-8/INFO]: Preparing spawn area: 36%
+[20:05:32] [Worker-Main-12/INFO]: Preparing spawn area: 36%
+[20:05:32] [Worker-Main-9/INFO]: Preparing spawn area: 36%
+[20:05:32] [Worker-Main-12/INFO]: Preparing spawn area: 36%
+[20:05:34] [Worker-Main-10/INFO]: Preparing spawn area: 36%
+[20:05:34] [Worker-Main-12/INFO]: Preparing spawn area: 36%
+[20:05:34] [Worker-Main-10/INFO]: Preparing spawn area: 37%
+[20:05:36] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[20:05:36] [Worker-Main-14/INFO]: Preparing spawn area: 37%
+[20:05:36] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[20:05:38] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[20:05:38] [Worker-Main-10/INFO]: Preparing spawn area: 37%
+[20:05:38] [Worker-Main-10/INFO]: Preparing spawn area: 37%
+[20:05:40] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[20:05:40] [Worker-Main-9/INFO]: Preparing spawn area: 37%
+[20:05:40] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[20:05:43] [Worker-Main-14/INFO]: Preparing spawn area: 37%
+[20:05:43] [Worker-Main-14/INFO]: Preparing spawn area: 37%
+[20:05:43] [Worker-Main-10/INFO]: Preparing spawn area: 37%
+[20:05:44] [Worker-Main-9/INFO]: Preparing spawn area: 37%
+[20:05:44] [Worker-Main-13/INFO]: Preparing spawn area: 37%
+[20:05:44] [Worker-Main-9/INFO]: Preparing spawn area: 37%
+[20:05:46] [Worker-Main-15/INFO]: Preparing spawn area: 37%
+[20:05:46] [Worker-Main-15/INFO]: Preparing spawn area: 37%
+[20:05:46] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:48] [Worker-Main-15/INFO]: Preparing spawn area: 38%
+[20:05:48] [Worker-Main-10/INFO]: Preparing spawn area: 38%
+[20:05:48] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:49] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:49] [Worker-Main-12/INFO]: Preparing spawn area: 38%
+[20:05:49] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:51] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:51] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:51] [Worker-Main-8/INFO]: Preparing spawn area: 38%
+[20:05:52] [Worker-Main-8/INFO]: Preparing spawn area: 38%
+[20:05:52] [Worker-Main-8/INFO]: Preparing spawn area: 38%
+[20:05:52] [Worker-Main-12/INFO]: Preparing spawn area: 38%
+[20:05:58] [Worker-Main-12/INFO]: Preparing spawn area: 38%
+[20:05:58] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:58] [Worker-Main-12/INFO]: Preparing spawn area: 38%
+[20:05:58] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:58] [Worker-Main-15/INFO]: Preparing spawn area: 38%
+[20:05:58] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:58] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[20:05:58] [Worker-Main-15/INFO]: Preparing spawn area: 38%
+[20:05:58] [Worker-Main-13/INFO]: Preparing spawn area: 39%
+[20:05:58] [Worker-Main-15/INFO]: Preparing spawn area: 39%
+[20:05:58] [Worker-Main-13/INFO]: Preparing spawn area: 39%
+[20:05:59] [Worker-Main-15/INFO]: Preparing spawn area: 39%
+[20:06:00] [Worker-Main-14/INFO]: Preparing spawn area: 39%
+[20:06:00] [Worker-Main-8/INFO]: Preparing spawn area: 39%
+[20:06:00] [Worker-Main-8/INFO]: Preparing spawn area: 39%
+[20:06:01] [Worker-Main-8/INFO]: Preparing spawn area: 39%
+[20:06:01] [Worker-Main-9/INFO]: Preparing spawn area: 39%
+[20:06:01] [Worker-Main-8/INFO]: Preparing spawn area: 40%
+[20:06:03] [Worker-Main-8/INFO]: Preparing spawn area: 40%
+[20:06:03] [Worker-Main-14/INFO]: Preparing spawn area: 40%
+[20:06:03] [Worker-Main-8/INFO]: Preparing spawn area: 40%
+[20:06:04] [Worker-Main-13/INFO]: Preparing spawn area: 40%
+[20:06:04] [Worker-Main-14/INFO]: Preparing spawn area: 40%
+[20:06:04] [Worker-Main-10/INFO]: Preparing spawn area: 40%
+[20:06:06] [Worker-Main-14/INFO]: Preparing spawn area: 40%
+[20:06:06] [Worker-Main-15/INFO]: Preparing spawn area: 40%
+[20:06:06] [Worker-Main-14/INFO]: Preparing spawn area: 40%
+[20:06:09] [Worker-Main-12/INFO]: Preparing spawn area: 40%
+[20:06:09] [Worker-Main-12/INFO]: Preparing spawn area: 40%
+[20:06:09] [Worker-Main-13/INFO]: Preparing spawn area: 40%
+[20:06:09] [Worker-Main-12/INFO]: Preparing spawn area: 40%
+[20:06:09] [Worker-Main-13/INFO]: Preparing spawn area: 40%
+[20:06:09] [Worker-Main-12/INFO]: Preparing spawn area: 41%
+[20:06:11] [Worker-Main-12/INFO]: Preparing spawn area: 41%
+[20:06:11] [Worker-Main-13/INFO]: Preparing spawn area: 41%
+[20:06:11] [Worker-Main-13/INFO]: Preparing spawn area: 41%
+[20:06:11] [Worker-Main-15/INFO]: Preparing spawn area: 41%
+[20:06:11] [Worker-Main-14/INFO]: Preparing spawn area: 41%
+[20:06:11] [Worker-Main-15/INFO]: Preparing spawn area: 41%
+[20:06:17] [Worker-Main-15/INFO]: Preparing spawn area: 41%
+[20:06:17] [Worker-Main-15/INFO]: Preparing spawn area: 41%
+[20:06:17] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[20:06:17] [Worker-Main-15/INFO]: Preparing spawn area: 41%
+[20:06:17] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[20:06:17] [Worker-Main-15/INFO]: Preparing spawn area: 41%
+[20:06:17] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[20:06:17] [Worker-Main-15/INFO]: Preparing spawn area: 41%
+[20:06:17] [Worker-Main-8/INFO]: Preparing spawn area: 41%
+[20:06:20] [Worker-Main-10/INFO]: Preparing spawn area: 41%
+[20:06:20] [Worker-Main-12/INFO]: Preparing spawn area: 41%
+[20:06:20] [Worker-Main-12/INFO]: Preparing spawn area: 42%
+[20:06:22] [Worker-Main-9/INFO]: Preparing spawn area: 42%
+[20:06:22] [Worker-Main-13/INFO]: Preparing spawn area: 42%
+[20:06:22] [Worker-Main-9/INFO]: Preparing spawn area: 42%
+[20:06:24] [Worker-Main-15/INFO]: Preparing spawn area: 42%
+[20:06:24] [Worker-Main-14/INFO]: Preparing spawn area: 42%
+[20:06:24] [Worker-Main-8/INFO]: Preparing spawn area: 42%
+[20:06:26] [Worker-Main-8/INFO]: Preparing spawn area: 42%
+[20:06:26] [Worker-Main-12/INFO]: Preparing spawn area: 42%
+[20:06:26] [Worker-Main-8/INFO]: Preparing spawn area: 42%
+[20:06:28] [Worker-Main-9/INFO]: Preparing spawn area: 42%
+[20:06:28] [Worker-Main-8/INFO]: Preparing spawn area: 42%
+[20:06:28] [Worker-Main-12/INFO]: Preparing spawn area: 42%
+[20:06:31] [Worker-Main-8/INFO]: Preparing spawn area: 42%
+[20:06:31] [Worker-Main-12/INFO]: Preparing spawn area: 42%
+[20:06:31] [Worker-Main-12/INFO]: Preparing spawn area: 43%
+[20:06:33] [Worker-Main-10/INFO]: Preparing spawn area: 43%
+[20:06:33] [Worker-Main-9/INFO]: Preparing spawn area: 43%
+[20:06:33] [Worker-Main-9/INFO]: Preparing spawn area: 43%
+[20:06:35] [Worker-Main-9/INFO]: Preparing spawn area: 43%
+[20:06:35] [Worker-Main-9/INFO]: Preparing spawn area: 43%
+[20:06:35] [Worker-Main-10/INFO]: Preparing spawn area: 43%
+[20:06:37] [Worker-Main-15/INFO]: Preparing spawn area: 43%
+[20:06:37] [Worker-Main-14/INFO]: Preparing spawn area: 43%
+[20:06:37] [Worker-Main-10/INFO]: Preparing spawn area: 43%
+[20:06:39] [Worker-Main-10/INFO]: Preparing spawn area: 43%
+[20:06:39] [Worker-Main-15/INFO]: Preparing spawn area: 43%
+[20:06:39] [Worker-Main-10/INFO]: Preparing spawn area: 43%
+[20:06:40] [Worker-Main-14/INFO]: Preparing spawn area: 43%
+[20:06:40] [Worker-Main-14/INFO]: Preparing spawn area: 43%
+[20:06:40] [Worker-Main-15/INFO]: Preparing spawn area: 44%
+[20:06:43] [Worker-Main-9/INFO]: Preparing spawn area: 44%
+[20:06:43] [Worker-Main-10/INFO]: Preparing spawn area: 44%
+[20:06:43] [Worker-Main-13/INFO]: Preparing spawn area: 44%
+[20:06:45] [Worker-Main-9/INFO]: Preparing spawn area: 44%
+[20:06:45] [Worker-Main-15/INFO]: Preparing spawn area: 44%
+[20:06:45] [Worker-Main-15/INFO]: Preparing spawn area: 44%
+[20:06:46] [Worker-Main-9/INFO]: Preparing spawn area: 44%
+[20:06:46] [Worker-Main-14/INFO]: Preparing spawn area: 44%
+[20:06:46] [Worker-Main-9/INFO]: Preparing spawn area: 44%
+[20:06:48] [Worker-Main-15/INFO]: Preparing spawn area: 44%
+[20:06:48] [Worker-Main-15/INFO]: Preparing spawn area: 44%
+[20:06:48] [Worker-Main-15/INFO]: Preparing spawn area: 44%
+[20:06:51] [Worker-Main-9/INFO]: Preparing spawn area: 44%
+[20:06:51] [Worker-Main-9/INFO]: Preparing spawn area: 44%
+[20:06:51] [Worker-Main-14/INFO]: Preparing spawn area: 44%
+[20:06:53] [Worker-Main-14/INFO]: Preparing spawn area: 44%
+[20:06:53] [Worker-Main-8/INFO]: Preparing spawn area: 44%
+[20:06:53] [Worker-Main-8/INFO]: Preparing spawn area: 45%
+[20:06:55] [Worker-Main-8/INFO]: Preparing spawn area: 45%
+[20:06:55] [Worker-Main-14/INFO]: Preparing spawn area: 45%
+[20:06:55] [Worker-Main-8/INFO]: Preparing spawn area: 45%
+[20:06:57] [Worker-Main-10/INFO]: Preparing spawn area: 45%
+[20:06:57] [Worker-Main-10/INFO]: Preparing spawn area: 45%
+[20:06:57] [Worker-Main-8/INFO]: Preparing spawn area: 45%
+[20:06:59] [Worker-Main-14/INFO]: Preparing spawn area: 45%
+[20:06:59] [Worker-Main-14/INFO]: Preparing spawn area: 45%
+[20:06:59] [Worker-Main-10/INFO]: Preparing spawn area: 45%
+[20:07:01] [Worker-Main-15/INFO]: Preparing spawn area: 45%
+[20:07:01] [Worker-Main-15/INFO]: Preparing spawn area: 45%
+[20:07:01] [Worker-Main-12/INFO]: Preparing spawn area: 45%
+[20:07:11] [Worker-Main-12/INFO]: Preparing spawn area: 45%
+[20:07:11] [Worker-Main-12/INFO]: Preparing spawn area: 45%
+[20:07:11] [Worker-Main-13/INFO]: Preparing spawn area: 45%
+[20:07:11] [Worker-Main-13/INFO]: Preparing spawn area: 45%
+[20:07:11] [Worker-Main-13/INFO]: Preparing spawn area: 45%
+[20:07:11] [Worker-Main-15/INFO]: Preparing spawn area: 45%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 45%
+[20:07:11] [Worker-Main-14/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-14/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-14/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-14/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 46%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 47%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 47%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 47%
+[20:07:11] [Worker-Main-9/INFO]: Preparing spawn area: 47%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 47%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 47%
+[20:07:11] [Worker-Main-8/INFO]: Preparing spawn area: 47%
+[20:07:12] [Worker-Main-15/INFO]: Preparing spawn area: 47%
+[20:07:12] [Worker-Main-15/INFO]: Preparing spawn area: 47%
+[20:07:12] [Worker-Main-9/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-9/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-12/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-12/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-15/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-9/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-9/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-15/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-15/INFO]: Preparing spawn area: 48%
+[20:07:12] [Worker-Main-14/INFO]: Preparing spawn area: 48%
+[20:07:13] [Worker-Main-14/INFO]: Preparing spawn area: 48%
+[20:07:13] [Worker-Main-8/INFO]: Preparing spawn area: 48%
+[20:07:13] [Worker-Main-15/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-13/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-13/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-13/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-14/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-14/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-14/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-8/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-8/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-12/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-10/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-10/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-10/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-8/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-8/INFO]: Preparing spawn area: 49%
+[20:07:13] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[20:07:13] [Worker-Main-10/INFO]: Preparing spawn area: 50%
+[20:07:13] [Worker-Main-12/INFO]: Preparing spawn area: 50%
+[20:07:13] [Worker-Main-12/INFO]: Preparing spawn area: 50%
+[20:07:13] [Worker-Main-15/INFO]: Preparing spawn area: 50%
+[20:07:13] [Worker-Main-15/INFO]: Preparing spawn area: 50%
+[20:07:13] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[20:07:14] [Worker-Main-12/INFO]: Preparing spawn area: 50%
+[20:07:14] [Worker-Main-12/INFO]: Preparing spawn area: 50%
+[20:07:14] [Worker-Main-12/INFO]: Preparing spawn area: 50%
+[20:07:14] [Worker-Main-10/INFO]: Preparing spawn area: 50%
+[20:07:14] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[20:07:14] [Worker-Main-10/INFO]: Preparing spawn area: 50%
+[20:07:14] [Worker-Main-12/INFO]: Preparing spawn area: 50%
+[20:07:14] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[20:07:14] [Worker-Main-8/INFO]: Preparing spawn area: 51%
+[20:07:14] [Worker-Main-15/INFO]: Preparing spawn area: 51%
+[20:07:14] [Worker-Main-10/INFO]: Preparing spawn area: 51%
+[20:07:14] [Worker-Main-12/INFO]: Preparing spawn area: 51%
+[20:07:14] [Worker-Main-12/INFO]: Preparing spawn area: 51%
+[20:07:14] [Worker-Main-13/INFO]: Preparing spawn area: 51%
+[20:07:14] [Worker-Main-12/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-10/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-12/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-15/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[20:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-10/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-10/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-12/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-10/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-8/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-8/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-8/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-14/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-8/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-13/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-8/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-12/INFO]: Preparing spawn area: 52%
+[20:07:15] [Worker-Main-15/INFO]: Preparing spawn area: 52%
+[20:07:16] [Worker-Main-12/INFO]: Preparing spawn area: 53%
+[20:07:16] [Worker-Main-13/INFO]: Preparing spawn area: 53%
+[20:07:17] [Worker-Main-10/INFO]: Preparing spawn area: 54%
+[20:07:17] [Worker-Main-14/INFO]: Preparing spawn area: 54%
+[20:07:18] [Worker-Main-8/INFO]: Preparing spawn area: 54%
+[20:07:18] [Worker-Main-10/INFO]: Preparing spawn area: 54%
+[20:07:19] [Worker-Main-9/INFO]: Preparing spawn area: 56%
+[20:07:19] [Worker-Main-13/INFO]: Preparing spawn area: 57%
+[20:07:20] [Worker-Main-8/INFO]: Preparing spawn area: 58%
+[20:07:20] [Worker-Main-13/INFO]: Preparing spawn area: 58%
+[20:07:21] [Worker-Main-14/INFO]: Preparing spawn area: 58%
+[20:07:21] [Worker-Main-10/INFO]: Preparing spawn area: 59%
+[20:07:22] [Worker-Main-8/INFO]: Preparing spawn area: 60%
+[20:07:22] [Worker-Main-12/INFO]: Preparing spawn area: 60%
+[20:07:23] [Worker-Main-13/INFO]: Preparing spawn area: 60%
+[20:07:23] [Worker-Main-12/INFO]: Preparing spawn area: 61%
+[20:07:26] [Worker-Main-12/INFO]: Preparing spawn area: 61%
+[20:07:26] [Worker-Main-13/INFO]: Preparing spawn area: 61%
+[20:07:26] [Worker-Main-12/INFO]: Preparing spawn area: 61%
+[20:07:26] [Worker-Main-12/INFO]: Preparing spawn area: 61%
+[20:07:26] [Worker-Main-12/INFO]: Preparing spawn area: 61%
+[20:07:26] [Worker-Main-12/INFO]: Preparing spawn area: 61%
+[20:07:27] [Worker-Main-8/INFO]: Preparing spawn area: 68%
+[20:07:27] [Worker-Main-9/INFO]: Preparing spawn area: 68%
+[20:07:29] [Worker-Main-12/INFO]: Preparing spawn area: 69%
+[20:07:29] [Worker-Main-12/INFO]: Preparing spawn area: 69%
+[20:07:29] [Worker-Main-15/INFO]: Preparing spawn area: 69%
+[20:07:31] [Worker-Main-14/INFO]: Preparing spawn area: 70%
+[20:07:31] [Worker-Main-10/INFO]: Preparing spawn area: 70%
+[20:07:31] [Worker-Main-14/INFO]: Preparing spawn area: 70%
+[20:07:31] [Worker-Main-9/INFO]: Preparing spawn area: 70%
+[20:07:31] [Worker-Main-10/INFO]: Preparing spawn area: 70%
+[20:07:32] [Worker-Main-10/INFO]: Preparing spawn area: 73%
+[20:07:36] [Worker-Main-10/INFO]: Preparing spawn area: 74%
+[20:07:36] [Worker-Main-9/INFO]: Preparing spawn area: 74%
+[20:07:36] [Worker-Main-12/INFO]: Preparing spawn area: 74%
+[20:07:36] [Worker-Main-10/INFO]: Preparing spawn area: 74%
+[20:07:36] [Worker-Main-10/INFO]: Preparing spawn area: 74%
+[20:07:36] [Worker-Main-9/INFO]: Preparing spawn area: 74%
+[20:07:36] [Worker-Main-9/INFO]: Preparing spawn area: 74%
+[20:07:36] [Worker-Main-12/INFO]: Preparing spawn area: 74%
+[20:07:36] [Worker-Main-12/INFO]: Preparing spawn area: 74%
+[20:07:37] [Worker-Main-14/INFO]: Preparing spawn area: 76%
+[20:07:37] [Worker-Main-12/INFO]: Preparing spawn area: 83%
+[20:07:38] [Worker-Main-10/INFO]: Preparing spawn area: 84%
+[20:07:38] [Worker-Main-12/INFO]: Preparing spawn area: 84%
+[20:07:39] [Worker-Main-13/INFO]: Preparing spawn area: 85%
+[20:07:39] [Worker-Main-8/INFO]: Preparing spawn area: 85%
+[20:07:40] [Worker-Main-15/INFO]: Preparing spawn area: 86%
+[20:07:40] [Worker-Main-12/INFO]: Preparing spawn area: 86%
+[20:07:41] [Worker-Main-12/INFO]: Preparing spawn area: 87%
+[20:07:41] [Worker-Main-9/INFO]: Preparing spawn area: 88%
+[20:07:42] [Worker-Main-14/INFO]: Preparing spawn area: 88%
+[20:07:45] [Worker-Main-14/INFO]: Preparing spawn area: 88%
+[20:07:45] [Worker-Main-13/INFO]: Preparing spawn area: 88%
+[20:07:45] [Worker-Main-10/INFO]: Preparing spawn area: 88%
+[20:07:45] [Worker-Main-14/INFO]: Preparing spawn area: 88%
+[20:07:45] [Worker-Main-10/INFO]: Preparing spawn area: 88%
+[20:07:45] [Worker-Main-14/INFO]: Preparing spawn area: 88%
+[20:07:45] [Worker-Main-10/INFO]: Preparing spawn area: 88%
+[20:07:46] [Worker-Main-15/INFO]: Preparing spawn area: 94%
+[20:07:46] [Worker-Main-15/INFO]: Preparing spawn area: 95%
+[20:07:47] [Worker-Main-10/INFO]: Preparing spawn area: 95%
+[20:07:47] [Worker-Main-8/INFO]: Preparing spawn area: 96%
+[20:07:48] [Worker-Main-12/INFO]: Preparing spawn area: 97%
+[20:07:48] [Worker-Main-15/INFO]: Preparing spawn area: 97%
+[20:07:49] [Worker-Main-10/INFO]: Preparing spawn area: 98%
+[20:07:49] [Worker-Main-8/INFO]: Preparing spawn area: 99%
+[20:07:49] [Server thread/INFO]: Time elapsed: 455479 ms
+[20:07:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:07:51] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:07:51] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:07:51] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:07:52] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:07:52] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[20:07:52] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:07:53] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:07:53] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:07:54] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:07:55] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:07:55] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:07:55] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:07:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:07:56] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:07:57] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:07:57] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:07:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:07:59] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:07:59] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:08:00] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:08:00] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:08:01] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:08:01] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:08:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:08:02] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:08:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:08:03] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:08:03] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:08:05] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:08:05] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:08:05] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:08:06] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[20:08:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:08:06] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:08:07] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:08:07] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:08:09] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:08:09] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:08:10] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:08:11] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:08:11] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[20:08:11] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[20:08:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:08:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[20:08:13] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:13] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:08:14] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[20:08:14] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:08:15] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:08:15] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:08:16] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[20:08:16] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:17] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:17] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:18] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[20:08:18] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:19] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[20:08:20] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:20] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:20] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:21] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:08:21] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[20:08:22] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:08:22] [Worker-Main-10/INFO]: Preparing spawn area: 1%
+[20:08:23] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:23] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:24] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:24] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:25] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:25] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:26] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:26] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:27] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:27] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:28] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:29] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:30] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:31] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:32] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:34] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:34] [Worker-Main-8/WARN]: Worker-Main-8 died
+java.lang.OutOfMemoryError: Java heap space
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.LongLinkedOpenHashSet.rehash(LongLinkedOpenHashSet.java:1080) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph$1.rehash(SourceFile:52) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.LongLinkedOpenHashSet.add(LongLinkedOpenHashSet.java:368) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:126) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:167) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.b(SourceFile:177) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineBlock.a(SourceFile:81) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.b(SourceFile:216) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineLayer.a(SourceFile:193) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngine.a(SourceFile:68) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.b(SourceFile:176) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.c(SourceFile:155) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded$$Lambda$3401/23760417.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+[20:08:36] [Worker-Main-10/WARN]: Worker-Main-10 died
+java.lang.OutOfMemoryError: Java heap space
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.Long2ByteOpenHashMap.rehash(Long2ByteOpenHashMap.java:1134) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph$2.rehash(SourceFile:61) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.Long2ByteOpenHashMap.insert(Long2ByteOpenHashMap.java:267) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.Long2ByteOpenHashMap.put(Long2ByteOpenHashMap.java:275) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:125) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:167) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:137) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineBlock.a(SourceFile:129) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngine.a(SourceFile:41) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.a(SourceFile:135) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded$$Lambda$3407/16251372.accept(Unknown Source) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_351]
+	at java.util.stream.ReferencePipeline$Head.forEach(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.a(SourceFile:135) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded$$Lambda$3402/21694483.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.b(SourceFile:170) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.a(SourceFile:108) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded$$Lambda$3400/10577087.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter$$Lambda$3347/11274795.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+[20:08:38] [Worker-Main-8/ERROR]: Caught exception in thread Thread[Worker-Main-8,5,main]
+java.lang.OutOfMemoryError: Java heap space
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.LongLinkedOpenHashSet.rehash(LongLinkedOpenHashSet.java:1080) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph$1.rehash(SourceFile:52) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.LongLinkedOpenHashSet.add(LongLinkedOpenHashSet.java:368) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:126) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:167) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.b(SourceFile:177) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineBlock.a(SourceFile:81) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.b(SourceFile:216) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineLayer.a(SourceFile:193) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngine.a(SourceFile:68) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.b(SourceFile:176) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.c(SourceFile:155) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded$$Lambda$3401/23760417.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:1.8.0_351]
+[20:08:38] [Worker-Main-10/ERROR]: Caught exception in thread Thread[Worker-Main-10,5,main]
+java.lang.OutOfMemoryError: Java heap space
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.Long2ByteOpenHashMap.rehash(Long2ByteOpenHashMap.java:1134) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph$2.rehash(SourceFile:61) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.Long2ByteOpenHashMap.insert(Long2ByteOpenHashMap.java:267) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at org.bukkit.craftbukkit.libs.it.unimi.dsi.fastutil.longs.Long2ByteOpenHashMap.put(Long2ByteOpenHashMap.java:275) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:125) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:167) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineGraph.a(SourceFile:137) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineBlock.a(SourceFile:129) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngine.a(SourceFile:41) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.a(SourceFile:135) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded$$Lambda$3407/16251372.accept(Unknown Source) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(Unknown Source) ~[?:1.8.0_351]
+	at java.util.stream.ReferencePipeline$Head.forEach(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.a(SourceFile:135) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded$$Lambda$3402/21694483.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.b(SourceFile:170) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded.a(SourceFile:108) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.LightEngineThreaded$$Lambda$3400/10577087.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter$$Lambda$3347/11274795.run(Unknown Source) ~[?:?]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:1.8.0_351]
+[20:08:40] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:08:41] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:41] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:42] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:08:42] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:08:42] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:42] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:43] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:43] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:43] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:43] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:43] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:43] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:43] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:43] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:44] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:44] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:44] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:08:44] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:08:44] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:44] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:44] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:44] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:44] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:45] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:45] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:45] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:45] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:08:45] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:45] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:08:46] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:46] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:08:47] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:47] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:48] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:48] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:08:49] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:08:49] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:08:50] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:50] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:51] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:51] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:52] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:08:52] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:08:53] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:53] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:54] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:54] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:55] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:08:55] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:08:56] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:56] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:57] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:08:57] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:08:58] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:58] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:08:59] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:08:59] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:09:00] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:09:00] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:09:01] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:09:01] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:09:02] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:09:02] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:09:03] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:09:03] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:09:04] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:09:04] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:09:05] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:09:05] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:09:06] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:09:06] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:09:07] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:09:07] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:09:08] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:09:08] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:09:09] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:09:09] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:09:10] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:09:10] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:11] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:09:11] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:09:12] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:09:12] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[20:09:13] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:09:13] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:09:14] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:09:15] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:09:15] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:09:15] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:09:16] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:09:17] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:18] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:09:19] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:19] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:09:20] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[20:09:20] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:22] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:23] [Worker-Main-14/INFO]: Preparing spawn area: 1%
+[20:09:23] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:09:23] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:25] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:25] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:26] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:26] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:28] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:29] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:31] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:34] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:38] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:09:43] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [1, 5]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:09:46] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [0, 4]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:09:48] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [-1, 3]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:09:51] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [0, 3]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:09:53] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [1, 3]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:09:56] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [1, 4]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:09:58] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [2, 3]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:10:00] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [2, 4]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:10:03] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [3, 3]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:10:16] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:10:17] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:10:18] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:10:20] [Server thread/FATAL]: Failed to schedule load callback for chunk [0, 5]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:11:03] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:11:06] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:11:06] [Server thread/FATAL]: Failed to schedule load callback for chunk [-1, 4]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:11:10] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:11:14] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[20:11:34] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:11:38] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:11:52] [Worker-Main-13/FATAL]: Failed to schedule load callback for chunk [3, 4]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:11:56] [Worker-Main-13/FATAL]: Failed to schedule load callback for chunk [4, 3]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:12:28] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:12:29] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:12:35] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[20:12:43] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [3, 5]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:12:48] [Worker-Main-26/FATAL]: Failed to schedule load callback for chunk [4, 4]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:13:20] [Worker-Main-26/INFO]: Preparing spawn area: 1%
+[20:13:29] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [5, 10]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:13:36] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [5, 9]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:13:39] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [6, 9]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:13:42] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [6, 10]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:13:46] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [8, 7]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:13:51] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [7, 6]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:13:53] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [8, 6]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:13:55] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [9, 6]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:13:57] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [7, 7]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:00] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [9, 7]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:03] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [7, 8]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:05] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [8, 8]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:08] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [9, 8]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:11] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [6, 5]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:17] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [7, 5]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:20] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [8, 5]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:23] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [9, 5]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:26] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [10, 5]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:29] [Worker-Main-25/FATAL]: Failed to schedule load callback for chunk [6, 6]
+java.util.concurrent.CompletionException: java.lang.OutOfMemoryError: Java heap space
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture.uniCompose(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(Unknown Source) ~[?:1.8.0_351]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_351]
+	at net.minecraft.server.v1_16_R3.ChunkTaskQueueSorter.b(SourceFile:58) ~[spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.e(SourceFile:94) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.a(SourceFile:137) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at net.minecraft.server.v1_16_R3.ThreadedMailbox.run(SourceFile:105) [spigot-1.16.5.jar:3096a-Spigot-9fb885e-af1a232]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:1.8.0_351]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:1.8.0_351]
+Caused by: java.lang.OutOfMemoryError: Java heap space
+[20:14:38] [AWT-EventQueue-0/WARN]: Exception in thread "Spigot Metrics Thread" java.lang.OutOfMemoryError: Java heap spaceException in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: Java heap space
